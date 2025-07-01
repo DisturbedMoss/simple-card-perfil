@@ -2,6 +2,7 @@
 ---
 
 Instalei HeroIcons, Tailwindcss. Importei fontes do google e usei custom-variant para usar o dark:
+Card Perfil Responsivo com Dark mode e Light mode
 
 ---
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
